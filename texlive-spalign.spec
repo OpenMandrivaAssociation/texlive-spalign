@@ -1,6 +1,6 @@
 Name:		texlive-spalign
 Version:	42225
-Release:	1
+Release:	2
 Summary:	Typeset matrices and arrays with spaces and semicolons as delimiters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spalign
